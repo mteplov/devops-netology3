@@ -24,4 +24,4 @@
 
 ## Скриншот network графа
 
-![Network graph](https://github.com/mteplov/devops-netology3/blob/main/branching/images/network.png)
+![Network graph](https://github.com/mteplov/devops-netology3/blob/main/branching/network.png)
